@@ -124,25 +124,3 @@ A collaborative, real-time code editor where users can seamlessly code together.
    ```bash
    http://localhost:5173/
    ```
-
-## 🔮 Features for Next Release
-
-- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
-
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
-
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.
-
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-<a href="https://github.com/sahilatahar/Code-Sync/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=sahilatahar/Code-Sync" />
-</a>
-
-
